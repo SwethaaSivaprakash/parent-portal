@@ -1,0 +1,6 @@
+Dear Parent, 
+This email contains the academic details of your ward,Please note that your ward mark and attendance are below the specified average 
+Name:${PERSON_NAME} 
+Course name:${COURSE_NAME} 
+Attendance:${ATTENDANCE}!!!WARNING
+Mark:${MARKS}!!!WARNING

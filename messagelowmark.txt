@@ -1,0 +1,6 @@
+Dear Parent, 
+This email contains the academic details of your ward,Please note that your wards score is not passable
+Name:${PERSON_NAME} 
+Course name:${COURSE_NAME} 
+Attendance:${ATTENDANCE}
+Mark:${MARKS}!!!WARNING
